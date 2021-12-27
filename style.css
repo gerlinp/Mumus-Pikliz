@@ -52,6 +52,10 @@ body {
   margin-bottom: 100px; 
 }
 
+#about h2 {
+  color: #e8b923;
+}
+
 #about img {
   height: 40vh;
   width: 100%;
@@ -87,7 +91,6 @@ body {
 
 #products video {
   width:25vw;
-  
   position: absolute;
 }
 
